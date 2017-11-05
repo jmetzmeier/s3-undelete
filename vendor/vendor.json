@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "sMNGYak6MM8KcTSbVRS4ADbuauM=",
+			"path": "github.com/araddon/dateparse",
+			"revision": "ca7e753bd149dae747d76fa7d52b20b920f3a814",
+			"revisionTime": "2017-10-07T16:34:59Z"
+		},
+		{
+			"checksumSHA1": "vL5NenpmHRUXSu4G6C+Pdr80Z6w=",
+			"path": "github.com/aws/aws-sdk-go",
+			"revision": "3e9e64d88a3aba2c745efa24d45620400c527f04",
+			"revisionTime": "2017-11-03T19:05:25Z"
+		}
+	],
+	"rootPath": "github.com/jmetzmeier/s3-undelete"
+}
