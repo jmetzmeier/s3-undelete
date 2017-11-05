@@ -13,6 +13,12 @@
 			"path": "github.com/aws/aws-sdk-go",
 			"revision": "3e9e64d88a3aba2c745efa24d45620400c527f04",
 			"revisionTime": "2017-11-03T19:05:25Z"
+		},
+		{
+			"checksumSHA1": "VrHSM9dRBPL3ufyl8qTnHCnF/cg=",
+			"path": "github.com/jessevdk/go-flags",
+			"revision": "f88afde2fa19a30cf50ba4b05b3d13bc6bae3079",
+			"revisionTime": "2017-09-26T14:47:05Z"
 		}
 	],
 	"rootPath": "github.com/jmetzmeier/s3-undelete"
